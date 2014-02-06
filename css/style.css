@@ -1,0 +1,18 @@
+#title{
+	text-align: center;
+}
+#tagline{
+	text-align: center;
+}
+
+.callout, .panel h3{
+	text-align: center;
+}
+
+.map-canvas-container { position: relative; width: 50%; height: 300px;/*dependent on media!*/ }
+#map-canvas { height: 100%; margin: 0px; padding: 0px; border: 1px solid black;}
+
+
+.body, .div{
+	border: 4px red solid !important;
+}
